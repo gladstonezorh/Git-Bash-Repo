@@ -16,8 +16,6 @@
 [<img align="left" alt="Gladstonezorh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gladstonezorh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Gladstone Zorh
-[instagram]: https://www.instagram.com/Gladstone Zorh
-[linkedin]: https://linkedin.com/in/gladstone-zorh-864a65113
+
 
 
