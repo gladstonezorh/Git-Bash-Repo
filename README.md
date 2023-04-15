@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/gladstonezorh/configure-ad)
   - [Understanding DNS in Domain Controller](https://github.com/gladstonezorh/DNS-Azure)
   - [Network File Shares and Permissions](https://github.com/gladstonezorh/network-file-share)
-  - [Virtual Private Networks](https://github.com/gladstonezorh/vpn-discover)
+
 
 
 
