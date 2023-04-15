@@ -6,7 +6,14 @@
   - [osTicket: Prerequisites and Installation](https://github.com/gladstonezorh/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gladstonezorh/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gladstonezorh/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+  
+  - <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/gladstonezorh/configure-ad)
+  - [Understanding DNS in Domain Controller](https://github.com/gladstonezorh/DNS-Azure)
+  - [Network File Shares and Permissions](https://github.com/gladstonezorh/network-file-share)
+  - [Virtual Private Networks](https://github.com/gladstonezorh/vpn-discover)
+
+
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gladstonezorh/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gladstonezorh/azure-network-protocols)
 
